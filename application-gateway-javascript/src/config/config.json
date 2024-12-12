@@ -1,0 +1,23 @@
+{
+  "development": {
+      "username": "your_postresql_username",
+      "password": "your_password",
+      "database": "blockchain_app",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+  "test": {
+      "username": "your_postresql_username",
+      "password": "your_password",
+      "database": "blockchain_app",
+      "host": "localhost",
+      "dialect": "postgres"
+  },
+  "production": {
+      "username": "your_postresql_username",
+      "password": "your_password",
+      "database": "blockchain_app",
+      "host": "localhost",
+      "dialect": "postgres"
+  }
+}
